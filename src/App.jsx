@@ -6,7 +6,6 @@ const firebaseConfig = {
   apiKey: "AIzaSyBdD3QEm8PnU6ojBi6XzytVY0NCbXdBx0w",
   authDomain: "wc2026-b3ba3.firebaseapp.com",
   databaseURL: "https://wc22222-5e7e0-default-rtdb.asia-southeast1.firebasedatabase.app",
-",
   projectId: "wc2026-b3ba3",
   storageBucket: "wc2026-b3ba3.firebasestorage.app",
   messagingSenderId: "705848910216",
